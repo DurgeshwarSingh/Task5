@@ -15,6 +15,7 @@ HTTP → Browser aur server ka gossip chat — "bhai mujhe page de, main tujhe r
 DNS → Internet ka contact list — naam (google.com) ko number (IP address) mein convert karta hai.
 
 For Foreigners:
+
 TCP - Is a realible and connection oriented protocol means your traffic is encrypted and safe.
     "If attacker intercept the packets but they can't decode them."
 
@@ -23,6 +24,7 @@ HTTP - This protocol is used to render hyperlinks and webpages to server and it 
 DNS - According to his name domain name system it converts domain to ip address because we can't learn every ip address :)
 
 Let's learn how can you capture traffic you need a tool called wireshark 
+
 1. Open it and select your interface like wlan0
 2. Now click on blue button
 3. Now it "start capturing packets” 🦈
@@ -31,4 +33,4 @@ Let's learn how can you capture traffic you need a tool called wireshark
 
 "Sorry for bad english and fun i am this type of person and this is whole writeup by me"
 
-Note : "Sample wireshark files are attached so, for learning purpose only."
+Note : "Sample wireshark files are not attached because more than 25mb not allowed"
